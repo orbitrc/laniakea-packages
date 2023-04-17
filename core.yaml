@@ -1,0 +1,66 @@
+- name: audit
+  src_repo: https://github.com/laniakea-repo/audit
+  versions:
+    0.1.1: "3.0.9-1"
+- name: bash
+  src_repo: https://github.com/laniakea-repo/bash
+  versions:
+    0.1.0: "5.1.016-1"
+- name: bzip2
+  src_repo: https://github.com/laniakea-repo/bzip2
+  versions:
+    0.1.0: "1.0.8-4"
+    0.1.1: "1.0.8-4"
+- name: coreutils
+  src_repo: https://github.com/laniakea-repo/coreutils
+  versions:
+    0.1.0: "9.0-2"
+- name: file
+  src_repo: https://github.com/laniakea-repo/file
+  versions:
+    0.1.0: "5.41-1"
+- name: filesystem
+  src_repo: https://github.com/laniakea-repo/filesystem
+  versions:
+    0.1.0: "2021.12.07-1"
+    0.1.1: "0.1.1-1"
+- name: findutils
+  src_repo: https://github.com/laniakea-repo/findutils
+  versions:
+    0.1.0: "4.9.0-1"
+- name: icu
+  src_repo: https://github.com/laniakea-repo/icu
+  versions:
+    0.1.1: "72.1-2"
+- name: libxcrypt
+  src_repo: https://github.com/laniakea-repo/libxcrypt
+  versions:
+    0.1.1: "4.4.33-1"
+- name: licenses
+  src_repo: https://github.com/laniakea-repo/licenses
+  versions:
+    0.1.1: "20220405-1"
+- name: openssl
+  src_repo: https://github.com/laniakea-repo/openssl
+  versions:
+    0.1.1: "3.0.7-4"
+- name: pacman
+  src_repo: https://github.com/laniakea-repo/pacman
+  versions:
+    0.1.1: "6.0.2-5"
+- name: pam
+  src_repo: https://github.com/laniakea-repo/pam
+  versions:
+    0.1.1: "1.5.2-1"
+- name: procps-ng
+  src_repo: https://github.com/laniakea-repo/procps-ng
+  versions:
+    0.1.1: "3.3.17-1"
+- name: tar
+  src_repo: https://github.com/laniakea-repo/tar
+  versions:
+    0.1.1: "1.34-1"
+- name: util-linux
+  src_repo: https://github.com/laniakea-repo/util-linux
+  versions:
+    0.1.1: "2.38.1-1"
