@@ -20,7 +20,13 @@
     0.1.0: 5.1.016-1
     0.1.1: 5.1.016-1
 - name: brotli
+  src_repo: https://git.orbitrc.io/laniakea-repo/brotli
+  versions:
+    0.1.1: 1.0.9-9
 - name: brotli-testdata
+  src_repo: https://git.orbitrc.io/laniakea-repo/brotli
+  versions:
+    0.1.1: 1.0.9-9
 - name: bzip2
   src_repo: https://github.com/laniakea-repo/bzip2
   versions:
