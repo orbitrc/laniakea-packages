@@ -1,3 +1,15 @@
+- name: acl
+  src_repo: https://github.com/laniakea-repo/acl
+  versions:
+    0.1.1: "2.3.1-2"
+- name: amd-ucode
+  src_repo: https://git.orbitrc.io/laniakea-repo/linux-firmware
+  versions:
+    0.1.1: "20230310.588dd071-1"
+- name: argon2
+  src_repo: https://git.orbitrc.io/laniakea-repo/argon2
+  versions:
+    0.1.1: "20190702-4"
 - name: audit
   src_repo: https://github.com/laniakea-repo/audit
   versions:
@@ -6,6 +18,9 @@
   src_repo: https://github.com/laniakea-repo/bash
   versions:
     0.1.0: "5.1.016-1"
+    0.1.1: "5.1.016-1"
+- name: brotli
+- name: brotli-testdata
 - name: bzip2
   src_repo: https://github.com/laniakea-repo/bzip2
   versions:
@@ -15,10 +30,12 @@
   src_repo: https://github.com/laniakea-repo/coreutils
   versions:
     0.1.0: "9.0-2"
+    0.1.1: "9.1-3"
 - name: file
   src_repo: https://github.com/laniakea-repo/file
   versions:
     0.1.0: "5.41-1"
+    0.1.1: "5.44-1"
 - name: filesystem
   src_repo: https://github.com/laniakea-repo/filesystem
   versions:
