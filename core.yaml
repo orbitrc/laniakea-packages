@@ -48,9 +48,10 @@
     0.1.0: 2021.12.07-1
     0.1.1: 0.1.1-1
 - name: findutils
-  src_repo: https://github.com/laniakea-repo/findutils
+  src_repo: https://git.orbitrc.io/laniakea-repo/findutils
   versions:
     0.1.0: 4.9.0-1
+    0.1.1: 4.9.0-2
 - name: icu
   src_repo: https://github.com/laniakea-repo/icu
   versions:
