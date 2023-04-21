@@ -57,6 +57,46 @@
   src_repo: https://github.com/laniakea-repo/licenses
   versions:
     0.1.1: 20220405-1
+- name: linux
+  src_repo: https://git.orbitrc.io/laniakea-repo/linux
+  versions:
+    0.1.1: 6.2.2.laniakea1-1
+- name: linux-firmware
+  src_repo: https://git.orbitrc.io/laniakea-repo/linux-firmware
+  versions:
+    0.1.1: 20230310.588dd071-1
+- name: linux-firmware-bnx2x
+  src_repo: https://git.orbitrc.io/laniakea-repo/linux-firmware
+  versions:
+    0.1.1: 20230310.588dd071-1
+- name: linux-firmware-liquidio
+  src_repo: https://git.orbitrc.io/laniakea-repo/linux-firmware
+  versions:
+    0.1.1: 20230310.588dd071-1
+- name: linux-firmware-marvell
+  src_repo: https://git.orbitrc.io/laniakea-repo/linux-firmware
+  versions:
+    0.1.1: 20230310.588dd071-1
+- name: linux-firmware-mellanox
+  src_repo: https://git.orbitrc.io/laniakea-repo/linux-firmware
+  versions:
+    0.1.1: 20230310.588dd071-1
+- name: linux-firmware-nfp
+  src_repo: https://git.orbitrc.io/laniakea-repo/linux-firmware
+  versions:
+    0.1.1: 20230310.588dd071-1
+- name: linux-firmware-qcom
+  src_repo: https://git.orbitrc.io/laniakea-repo/linux-firmware
+  versions:
+    0.1.1: 20230310.588dd071-1
+- name: linux-firmware-qlogic
+  src_repo: https://git.orbitrc.io/laniakea-repo/linux-firmware
+  versions:
+    0.1.1: 20230310.588dd071-1
+- name: linux-firmware-whence
+  src_repo: https://git.orbitrc.io/laniakea-repo/linux-firmware
+  versions:
+    0.1.1: 20230310.588dd071-1
 - name: openssl
   src_repo: https://github.com/laniakea-repo/openssl
   versions:
