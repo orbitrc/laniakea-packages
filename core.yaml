@@ -56,6 +56,14 @@
   src_repo: https://github.com/laniakea-repo/icu
   versions:
     0.1.1: 72.1-2
+- name: laniakea-keyring
+  src_repo: https://git.orbitrc.io/laniakea-repo/laniakea-keyring
+  versions:
+    0.1.1: 1-1
+- name: laniakea-osutils
+  src_repo: https://git.orbitrc.io/laniakea-repo/laniakea-osutils
+  versions:
+    0.1.1: 0.1.1-1
 - name: libxcrypt
   src_repo: https://github.com/laniakea-repo/libxcrypt
   versions:
@@ -109,9 +117,9 @@
   versions:
     0.1.1: 3.0.7-4
 - name: pacman
-  src_repo: https://github.com/laniakea-repo/pacman
+  src_repo: https://git.orbitrc.io/laniakea-repo/pacman
   versions:
-    0.1.1: 6.0.2-5
+    0.1.1: 6.0.2.laniakea0-1
 - name: pam
   src_repo: https://github.com/laniakea-repo/pam
   versions:
