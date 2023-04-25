@@ -1,4 +1,28 @@
 - name: gcc
   src_repo: https://git.orbitrc.io/laniakea-repo/gcc
   versions:
-    0.1.1: "12.2.1-1"
+    0.1.1: 12.2.1-1
+- name: gcc-ada
+  src_repo: https://git.orbitrc.io/laniakea-repo/gcc
+  versions:
+    0.1.1: 12.2.1-1
+- name: gcc-d
+  src_repo: https://git.orbitrc.io/laniakea-repo/gcc
+  versions:
+    0.1.1: 12.2.1-1
+- name: gcc-fortran
+  src_repo: https://git.orbitrc.io/laniakea-repo/gcc
+  versions:
+    0.1.1: 12.2.1-1
+- name: gcc-go
+  src_repo: https://git.orbitrc.io/laniakea-repo/gcc
+  versions:
+    0.1.1: 12.2.1-1
+- name: gcc-objc
+  src_repo: https://git.orbitrc.io/laniakea-repo/gcc
+  versions:
+    0.1.1: 12.2.1-1
+- name: libgccjit
+  src_repo: https://git.orbitrc.io/laniakea-repo/gcc
+  versions:
+    0.1.1: 12.2.1-1

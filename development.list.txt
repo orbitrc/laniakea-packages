@@ -1,0 +1,7 @@
+gcc
+gcc-ada
+gcc-d
+gcc-fortran
+gcc-go
+gcc-objc
+libgccjit
