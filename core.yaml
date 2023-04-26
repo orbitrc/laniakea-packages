@@ -52,6 +52,10 @@
   versions:
     0.1.0: 4.9.0-1
     0.1.1: 4.9.0-2
+- name: glibc
+  src_repo: https://git.orbitrc.io/laniakea-repo/glibc
+  versions:
+    0.1.1: 2.36-7
 - name: icu
   src_repo: https://github.com/laniakea-repo/icu
   versions:
@@ -112,6 +116,10 @@
   src_repo: https://git.orbitrc.io/laniakea-repo/linux-firmware
   versions:
     0.1.1: 20230310.588dd071-1
+- name: ncurses
+  src_repo: https://git.orbitrc.io/laniakea-repo/ncurses
+  versions:
+    0.1.1: 6.3-2
 - name: openssl
   src_repo: https://github.com/laniakea-repo/openssl
   versions:
