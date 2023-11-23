@@ -1,5 +1,5 @@
 - name: acl
-  src_repo: https://github.com/laniakea-repo/acl
+  src_repo: https://git.orbitrc.io/laniakea-repo/acl
   versions:
     0.1.1: 2.3.1-2
 - name: amd-ucode
@@ -11,11 +11,11 @@
   versions:
     0.1.1: 20190702-4
 - name: audit
-  src_repo: https://github.com/laniakea-repo/audit
+  src_repo: https://git.orbitrc.io/laniakea-repo/audit
   versions:
     0.1.1: 3.0.9-1
 - name: bash
-  src_repo: https://github.com/laniakea-repo/bash
+  src_repo: https://git.orbitrc.io/laniakea-repo/bash
   versions:
     0.1.0: 5.1.016-1
     0.1.1: 5.1.016-1
@@ -28,22 +28,22 @@
   versions:
     0.1.1: 1.0.9-9
 - name: bzip2
-  src_repo: https://github.com/laniakea-repo/bzip2
+  src_repo: https://git.orbitrc.io/laniakea-repo/bzip2
   versions:
     0.1.0: 1.0.8-4
     0.1.1: 1.0.8-4
 - name: coreutils
-  src_repo: https://github.com/laniakea-repo/coreutils
+  src_repo: https://git.orbitrc.io/laniakea-repo/coreutils
   versions:
     0.1.0: 9.0-2
     0.1.1: 9.1-3
 - name: file
-  src_repo: https://github.com/laniakea-repo/file
+  src_repo: https://git.orbitrc.io/laniakea-repo/file
   versions:
     0.1.0: 5.41-1
     0.1.1: 5.44-1
 - name: filesystem
-  src_repo: https://github.com/laniakea-repo/filesystem
+  src_repo: https://git.orbitrc.io/laniakea-repo/filesystem
   versions:
     0.1.0: 2021.12.07-1
     0.1.1: 0.1.1-1
@@ -57,7 +57,7 @@
   versions:
     0.1.1: 2.36-7
 - name: icu
-  src_repo: https://github.com/laniakea-repo/icu
+  src_repo: https://git.orbitrc.io/laniakea-repo/icu
   versions:
     0.1.1: 72.1-2
 - name: laniakea-keyring
@@ -69,11 +69,11 @@
   versions:
     0.1.1: 0.1.1-1
 - name: libxcrypt
-  src_repo: https://github.com/laniakea-repo/libxcrypt
+  src_repo: https://git.orbitrc.io/laniakea-repo/libxcrypt
   versions:
     0.1.1: 4.4.33-1
 - name: licenses
-  src_repo: https://github.com/laniakea-repo/licenses
+  src_repo: https://git.orbitrc.io/laniakea-repo/licenses
   versions:
     0.1.1: 20220405-1
 - name: linux
@@ -121,7 +121,7 @@
   versions:
     0.1.1: 6.3-2
 - name: openssl
-  src_repo: https://github.com/laniakea-repo/openssl
+  src_repo: https://git.orbitrc.io/laniakea-repo/openssl
   versions:
     0.1.1: 3.0.7-4
 - name: pacman
@@ -133,7 +133,7 @@
   versions:
     0.1.1: 1.5.2-1
 - name: procps-ng
-  src_repo: https://github.com/laniakea-repo/procps-ng
+  src_repo: https://git.orbitrc.io/laniakea-repo/procps-ng
   versions:
     0.1.1: 3.3.17-1
 - name: systemd
@@ -153,11 +153,11 @@
   versions:
     0.1.1: 252.5-1
 - name: tar
-  src_repo: https://github.com/laniakea-repo/tar
+  src_repo: https://git.orbitrc.io/laniakea-repo/tar
   versions:
     0.1.1: 1.34-1
 - name: util-linux
-  src_repo: https://github.com/laniakea-repo/util-linux
+  src_repo: https://git.orbitrc.io/laniakea-repo/util-linux
   versions:
     0.1.1: 2.38.1-1
 - name: util-linux-libs
