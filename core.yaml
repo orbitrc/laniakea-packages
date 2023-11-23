@@ -160,3 +160,15 @@
   src_repo: https://github.com/laniakea-repo/util-linux
   versions:
     0.1.1: 2.38.1-1
+- name: util-linux-libs
+  src_repo: https://github.com/laniakea-repo/util-linux
+  versions:
+    0.1.1: 2.38.1-1
+- name: gcc-libs
+  src_repo: https://git.orbitrc.io/laniakea-repo/gcc
+  versions:
+    0.1.1: 12.2.1-1
+- name: readline
+  src_repo: https://git.orbitrc.io/laniakea-repo/readline
+  versions:
+    0.1.1: 8.2.001-2
