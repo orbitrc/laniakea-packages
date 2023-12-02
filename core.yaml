@@ -184,3 +184,7 @@
   src_repo: https://git.orbitrc.io/laniakea-repo/zstd
   versions:
     0.1.1: 1.5.2-8
+- name: mkinitcpio
+  src_repo: https://git.orbitrc.io/laniakea-repo/mkinitcpio
+  versions:
+    0.1.1: 37-1
