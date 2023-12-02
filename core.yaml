@@ -172,3 +172,15 @@
   src_repo: https://git.orbitrc.io/laniakea-repo/readline
   versions:
     0.1.1: 8.2.001-2
+- name: zlib
+  src_repo: https://git.orbitrc.io/laniakea-repo/zlib
+  versions:
+    0.1.1: 1.2.13-2
+- name: xz
+  src_repo: https://git.orbitrc.io/laniakea-repo/xz
+  versions:
+    0.1.1: 5.4.1-1
+- name: zstd
+  src_repo: https://git.orbitrc.io/laniakea-repo/zstd
+  versions:
+    0.1.1: 1.5.2-8
